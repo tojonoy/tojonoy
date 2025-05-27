@@ -32,12 +32,11 @@ I thrive on problem-solving, collaboration, and continuous learning to innovate 
 - Enhanced problem-solving and communication skills through agile teamwork.
 
 ---
-
 ## 🛠️ Technical Skills
 
 | Languages          | Frameworks & Tools               | Cloud & Platforms       |
 |--------------------|---------------------------------|------------------------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) |
 
 ---
 
